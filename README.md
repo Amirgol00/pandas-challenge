@@ -14,7 +14,11 @@ CSV files with school and student data
 Structure of the Notebook
 
 1- Introduction: An overview of the notebook's purpose and goals.
+
+
 2- Dependencies and Setup: Code to import necessary libraries and set up file paths for loading the data.
+
+
 3- Data Analysis Sections: The notebook contains multiple sections, each dedicated to analyzing different aspects of the school data. For example, there is a section for generating a "District Summary".
 
 Data Files
