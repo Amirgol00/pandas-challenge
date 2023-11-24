@@ -1,6 +1,7 @@
 # pandas-challenge
  
 README for PyCity Schools Analysis Jupyter Notebook
+
 Overview
 
 The "PyCity Schools Analysis" Jupyter Notebook is designed to perform comprehensive data analysis on school and student data. This analysis aims to provide insights into various metrics and trends within the PyCity school district.
@@ -36,4 +37,7 @@ Place the CSV data files in the appropriate directory as indicated in the notebo
 Run each cell in the notebook manually or press run all to perform the analysis and see the results.
 
 Note: 
-The notebook contains specific analysis of the trends in the data in markdown sections. 
+The notebook contains specific analysis of the trends in the data in a markdown section at the top.
+
+To properly display the analyis, please make sure to open the file in Github, VScode or similar, or browser. 
+
