@@ -22,15 +22,18 @@ Structure of the Notebook
 3- Data Analysis Sections: The notebook contains multiple sections, each dedicated to analyzing different aspects of the school data. 
 For example, there is a section for generating a "District Summary".
 
-Data Files
+Data Files:
+
+
 schools_complete.csv: Contains information about schools in the district.
+
 students_complete.csv: Contains information about students in the district.
 
 How to Use
 
-Ensure that Python 3 and Pandas and other relavant packages are installed.
+Ensure that Python 3 , Pandas and other relavant packages are installed.
 Place the CSV data files in the appropriate directory as indicated in the notebook or change the directory path.
-Run each cell in the notebook sequentially to perform the analysis.
+Run each cell in the notebook manually or press run all to perform the analysis and see the results.
 
 Note: 
 The notebook contains specific analysis of the trends in the data in markdown sections. 
